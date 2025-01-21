@@ -1,0 +1,8 @@
+C:\Users\bm56198\source\repos\console1\lab7\bin\Debug\lab7.exe.config
+C:\Users\bm56198\source\repos\console1\lab7\bin\Debug\lab7.exe
+C:\Users\bm56198\source\repos\console1\lab7\bin\Debug\lab7.pdb
+C:\Users\bm56198\source\repos\console1\lab7\obj\Debug\lab7.csproj.AssemblyReference.cache
+C:\Users\bm56198\source\repos\console1\lab7\obj\Debug\lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\bm56198\source\repos\console1\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\bm56198\source\repos\console1\lab7\obj\Debug\lab7.exe
+C:\Users\bm56198\source\repos\console1\lab7\obj\Debug\lab7.pdb
